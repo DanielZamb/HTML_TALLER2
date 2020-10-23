@@ -1,0 +1,30 @@
+.banner{
+    color: white;
+}
+.page{
+    background-color: lightsteelblue;
+    background-image: url("resources/patron pagina.jpg");
+}
+.accp{
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.acc{
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.imgc{
+    text-align: center;
+    width: 30px;
+    height: 33px;
+}
+.myTitle{
+    text-align: center;
+    color: dimgray;
+}
+.myTitle2{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
